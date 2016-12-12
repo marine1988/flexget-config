@@ -1,6 +1,5 @@
 secrets.yml
 config.yml.*
-*log*
 *sqlite*
 *lock*
 received/
