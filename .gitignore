@@ -3,12 +3,11 @@ config.yml.*
 *log*
 *sqlite*
 *lock*
-plugins/*.pyc
 received/
+logs/
 temp/
 series.yml
 anime.yml
 converted/
 *test*
 trakt*
-anidb*
